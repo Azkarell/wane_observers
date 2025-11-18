@@ -1,0 +1,7 @@
+[package]
+name = "wane_observers"
+version = "0.17.0"
+edition = "2024"
+
+[dependencies]
+bevy = { version = "0.17.2", features = [ "bevy_log"], default-features = false }
